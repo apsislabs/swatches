@@ -1,0 +1,22 @@
+{
+  "name": "Swatches",
+  "identifier": "io.apsis.sketch.swatches_plugin",
+  "version": "1.0.0",
+  "description": "Generate a grid of color swatches from a string of HEX codes.",
+  "email": "wyatt@apsis.io",
+  "author": "Wyatt Kirby",
+  "compatibleVersion": "3.4",
+  "commands": [{
+    "script": "main.js",
+    "handler": "onRun",
+    "shortcut": "",
+    "name": "Make Swatches...",
+    "identifier": "swatches"
+  }, {
+    "script": "main.js",
+    "handler": "onAdvancedRun",
+    "shortcut": "",
+    "name": "Make Swatches (Advanced)...",
+    "identifier": "swatchesAdvanced"
+  }]
+}
