@@ -18,7 +18,7 @@ This will generate a group on your currently selected page named `Color Swatches
 
 ### Advanced
 
-Select `Plugins > Swatches > Make Swatches...` and enter a JSON array of color objects. This will allow you to name the swatches before they are generated:
+Select `Plugins > Swatches > Make Swatches (Advanced)...` and enter a JSON array of color objects. This will allow you to name the swatches before they are generated:
 
 ```
 [
