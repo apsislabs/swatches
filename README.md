@@ -14,7 +14,7 @@ Select `Plugins > Swatches > Make Swatches...` and enter a comma-separated list 
 
 This will generate a group on your currently selected page named `Color Swatches`.
 
-![](https://www.dropbox.com/s/jdnfwlqe0jvb5ux/Screenshot%202016-10-09%2014.53.46.png?dl=0)
+![](assets/images/swatches.png)
 
 ### Advanced
 
@@ -31,7 +31,7 @@ Select `Plugins > Swatches > Make Swatches...` and enter a JSON array of color o
 ]
 ```
 
-![](https://www.dropbox.com/s/dle2ou9gvhidesv/Screenshot%202016-10-09%2014.55.49.png?dl=0)
+![](assets/images/swatches_advanced.png)
 
 ## Thanks
 
