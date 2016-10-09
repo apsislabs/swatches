@@ -36,3 +36,5 @@ Select `Plugins > Swatches > Make Swatches...` and enter a JSON array of color o
 ## Thanks
 
 This plugin is adapted from https://github.com/jodyheavener/Swatches. Thanks to [jodyheavener](https://github.com/jodyheavener) for his original work.
+
+Thanks also to the folks over at https://flatuicolors.com/ for the default colors and names.
